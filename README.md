@@ -1,6 +1,6 @@
 # my-papers
 
-## Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems 
+## [Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems](Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf) 
 
 [DOCUMENT](https://github.com/rykovv/my-papers/blob/main/Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf "DOCUMENT")
 
