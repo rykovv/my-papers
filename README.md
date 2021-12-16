@@ -1,6 +1,6 @@
 # my-papers
 
-## [Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems] (./Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf)
+## [Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems] (/Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf)
 
 Development of electronic systems was always intrinsically related to the power that makes them work.Each electronic system may it be a conventional domestic device, hand-held gadget, or embedded system, has to be provided with a required power supply. The present work discusses important issues related to the power supplies and suitable for the majority of electronic devices.
 
