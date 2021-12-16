@@ -2,7 +2,7 @@
 
 ## Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems 
 
-[LINK] (../Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf)
+[LINK] (Power_Supply_Design_Techniques_for_Conventional_and_Energy_Harvesting_Power_Systems.pdf "Power Supply Design Techniques for Conventional and Energy Harvesting Power Systems")
 
 Abstract
 
