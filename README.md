@@ -32,3 +32,7 @@ Since there are many software development areas, i.e. Machine Learning (ML) or E
 Hardware access is a common action during WSN node development. There were conceived many hardware access design patterns that improve code portability, multiple module support, and hardware modules interactions. Since WSN nodes often are charged with many tasks, concurrency and resource management patterns were made up for those contexts. Nodes actions, more often than not, are constrained to a certain sequence of states, and state machines govern state transitions. Thus, state machines patterns were brought into light.
 
 Present work focuses on those three types of patterns: hardware access, concurrency and resource management, and state machines. The patterns are considered in the WSN area.
+
+## [Smart City Parking Vehicle Detection System Based on Magnetic Field Sensors](Smart_City_Parking_Vehicle_Detection_System_Based_on_Magnetic_Field_Sensors.pdf)
+
+The developed system constitutes one of many existent sensor solutions for Smart Cities. In the era of optimization and data processing it brings many benefits reducing the time a vehicle looks for a parking place as well as a carbon dioxide produced by the moving vehicles. The final product is delivered to a customer as Platform as a Service (PaaS) infrastructure where recollected data is received and visualized.
