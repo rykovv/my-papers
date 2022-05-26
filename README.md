@@ -37,6 +37,8 @@ Present work focuses on those three types of patterns: hardware access, concurre
 
 The developed system constitutes one of many existent sensor solutions for Smart Cities. In the era of optimization and data processing it brings many benefits reducing the time a vehicle looks for a parking place as well as a carbon dioxide produced by the moving vehicles. The final product is delivered to a customer as Platform as a Service (PaaS) infrastructure where recollected data is received and visualized.
 
+[Jaume I University Repository](http://repositori.uji.es/xmlui/handle/10234/185656)
+
 ## [Design and Implementation of a Complete Internet of Things Infrastructure: Insightful Lightweight Platform with Real-Time Devices Automation and Alerts, Gateway and Device Firmware, and Communication Protocol](Design_and_Implementation_of_a_Complete_Internet_of_Things_Infrastructure.pdf)
 
 This document contains a final master thesis project in which a complete Internet of Things (IoT) infrastructure is proposed and developed. The infrastructure consists of a lightweight platform, easily capable to run on a Raspberry Pi board; gateway and communication protocol. The project was developed during the research activity at University Jaume I for the purposes of the research group related to the IoT and Wireless Sensor Networks (WSN).
